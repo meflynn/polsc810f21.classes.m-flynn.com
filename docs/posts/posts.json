@@ -1,0 +1,21 @@
+[
+  {
+    "path": "posts/2021-08-18-test-post/",
+    "title": "Pro forma introductory post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Michael Flynn",
+        "url": {}
+      }
+    ],
+    "date": "2021-08-18",
+    "categories": [],
+    "contents": "\r\nThis is a test. I’ll use this blog to post announcements and supplemental material that expands on readings, lectures, discussions, etc.\r\nHere’s some R code:\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2021-08-18-test-post/test-post_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2021-08-18T17:12:22-05:00",
+    "input_file": {},
+    "preview_width": 5200,
+    "preview_height": 3200
+  }
+]
